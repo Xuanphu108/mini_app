@@ -10,25 +10,25 @@ export interface Item {
 // Items data - shared between frontend and backend
 export const ITEMS: Item[] = [
   {
-    id: 'ice_cream',
-    name: 'Ice Cream 🍦',
-    description: 'A delicious virtual ice cream',
+    id: 'mobile_card',
+    name: 'Mobile Card 📱',
+    description: 'A useful virtual mobile recharge card',
     price: 1,
-    icon: '🍦'
+    icon: '📱'
   },
   {
-    id: 'cookie',
-    name: 'Cookie 🍪',
-    description: 'A sweet virtual cookie',
-    price: 3,
-    icon: '🍪'
+    id: 'shopee_card',
+    name: 'Shopee Card 🛍️',
+    description: 'A Shopee virtual gift card for shopping',
+    price: 1,
+    icon: '🛍️'
   },
   {
-    id: 'hamburger',
-    name: 'Hamburger 🍔',
+    id: 'shopping_card',
+    name: 'Shopping Card 🛒',
     description: 'A tasty virtual hamburger',
-    price: 5,
-    icon: '🍔'
+    price: 1,
+    icon: '🛒'
   }
 ];
 

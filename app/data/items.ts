@@ -26,7 +26,7 @@ export const ITEMS: Item[] = [
   {
     id: 'shopping_card',
     name: 'Shopping Card 🛒',
-    description: 'A tasty virtual hamburger',
+    description: 'A universal shopping card for all your needsr',
     price: 1,
     icon: '🛒'
   }
